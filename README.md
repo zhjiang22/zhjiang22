@@ -4,7 +4,7 @@
 
 - 📫 Contact me by email jiangzhh25@mail2.sysu.edu.cn
 
-- 🤔 You can learn more about me from my [personal homepage](https://www.zihur-jiang.com)
+- 🤔 You can learn more about me from my [personal homepage]()
 
 <!--
 **Zihur18/Zihur18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
