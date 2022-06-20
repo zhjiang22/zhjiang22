@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👯 I am a senior undergraduate in Computer Science and Technology (Supercomputing Direction) from Sun Yat-sen University. And I expect to receive my B.E. degree at school of Computer Science and Engineering (CSE), SYSU in Jun. 2022.
+- 👯 I am an incoming Ph.D student at CUHK, currently a senior undergraduate in Computer Science and Technology (Supercomputing Direction) from SYSU.
 
-- 📫 Contact me by email jiangzhh25@mail2.sysu.edu.cn
+- 📫 Contact me by [outlook email](mailto:JovanJiang@outlook.com)
 
-- 🤔 You can learn more about me from my [personal homepage]()
+- 🤔 You can learn more about me from my [personal homepage](www.zhihan-jiang.com)
 
 <!--
 **Zihur18/Zihur18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
