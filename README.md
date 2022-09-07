@@ -1,26 +1,14 @@
 ### Hi there 👋
 
-- 👯 I am an incoming Ph.D student at CUHK, currently a senior undergraduate in Computer Science and Technology (Supercomputing Direction) from SYSU.
+- 👯 I am Zhihan Jiang, a first-year Ph.D. student at CUHK, advised by Prof. Michael Rung Tsong Lyu. 
 
-- 📫 Contact me by [outlook email](mailto:JovanJiang@outlook.com)
+- Currently, my research interest mainly focuses on cloud systems, especially serverless platforms.
+
+- 📫 Contact me by [outlook email](mailto:zhjiang22@outlook.com)
 
 - 🤔 You can learn more about me from my [personal homepage](www.zhihan-jiang.com)
 
-<!--
-**Zihur18/Zihur18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![zhjiang22's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhjiang22&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Zihur18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihur18&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihur18&layout=compact&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhjiang22&layout=compact&hide_border=true) 
