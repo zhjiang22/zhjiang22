@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 👯 I am Zhihan Jiang, a first-year Ph.D. student at CUHK.
 
