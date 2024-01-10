@@ -1,10 +1,10 @@
 ### Hi 👋
 
-- 👯 I am Zhihan Jiang, a first-year Ph.D. student at CUHK.
+- 👯 I am Zhihan Jiang, a 2nd-year Ph.D. student at CUHK.
 
-- 🧑‍💻 Currently, my research interest mainly focuses on AIOps for cloud systems.
-
-- 📫 Contact me by [email](mailto:zhjiang22@cse.cuhk.edu.hk).
+- 🧑‍💻 Currently, my research interests include AIOps for cloud systems, log analysis and LLM systems.
 
 - 🤔 You can learn more about me from my [personal homepage](http://www.zhihan-jiang.com).
+
+- 📫 Feel free to contact me by [email](mailto:zhjiang22@cse.cuhk.edu.hk).
 
