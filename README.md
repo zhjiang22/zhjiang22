@@ -6,5 +6,5 @@
 
 - 🤔 You can learn more about me from my [personal homepage](http://www.zhihan-jiang.com).
 
-- 📫 Feel free to contact me by [email](mailto:zhjiang22@cse.cuhk.edu.hk).
+- 📫 Feel free to contact me by [email](mailto:zhjiang@link.cuhk.edu.hk).
 
