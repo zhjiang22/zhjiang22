@@ -1,8 +1,8 @@
 ### Hi 👋
 
-- 👯 I am Zhihan Jiang, a 2nd-year Ph.D. student at CUHK.
+- 👯 I am Zhihan Jiang, a 3rd-year Ph.D. student at CUHK.
 
-- 🧑‍💻 Currently, my research interests include AIOps for cloud systems, log analysis and LLM systems.
+- 🧑‍💻 Currently, my research interests lie in the reliability of large-scale cloud systems and LLM systems.
 
 - 🤔 You can learn more about me from my [personal homepage](http://www.zhihan-jiang.com).
 
