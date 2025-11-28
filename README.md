@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 👯 I am Zhihan Jiang, a 3rd-year Ph.D. student at CUHK.
+- 👯 I am Zhihan Jiang, a final-year Ph.D. student at CUHK.
 
 - 🧑‍💻 Currently, my research interests lie in the reliability of large-scale cloud systems and LLM systems.
 
